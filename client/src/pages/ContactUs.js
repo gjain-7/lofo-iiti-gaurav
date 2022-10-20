@@ -61,6 +61,17 @@ export default function ContactUs() {
                             <div className=" col-12 mt-3 mb-2 col-md-6 text-center">
                                 <div className="text-success mb-3 h5">Developers</div>
                                 <div className="row mt-4">
+                                  <div className="col">
+                                        <img src="mihir.jpg" alt=""
+                                            style={{
+                                                width: 120,
+                                                borderRadius: "100%"
+                                            }}
+                                        />
+                                        <div className="p fw-bold mt-2">Mihir Karandikar</div>
+                                        <div style={{ fontSize: 14 }}>B. Tech, Computer Science Engineering</div>
+                                        <div style={{ fontSize: 14 }}>IIT Indore'2024</div>
+                                    </div>
                                     <div className="col">
                                         <img src="Suman-Jaiswal.webp" alt=""
                                             style={{
